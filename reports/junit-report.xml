@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="register-on-the-website-cermati.com;user-success-to-register-on-the-website-of-cermati.com" tests="9" failures="0" skipped="0">
+        <properties>
+            <property name="@success" value="true">
+            </property>
+            <property name="URI" value="F:\Study\Job\Cermati\register-cermati\features\register.feature">
+            </property>
+        </properties>
+        <testcase name="Given user browse register page" classname="register-on-the-website-cermati.com;user-success-to-register-on-the-website-of-cermati.com" time="0.0009783">
+        </testcase>
+        <testcase name="And user fill Email field" classname="register-on-the-website-cermati.com;user-success-to-register-on-the-website-of-cermati.com" time="0.000191301">
+        </testcase>
+        <testcase name="And user fill Kata Sandi field" classname="register-on-the-website-cermati.com;user-success-to-register-on-the-website-of-cermati.com" time="0.0002186">
+        </testcase>
+        <testcase name="And user fill Konfirmasi Kata Sandi field" classname="register-on-the-website-cermati.com;user-success-to-register-on-the-website-of-cermati.com" time="0.000173101">
+        </testcase>
+        <testcase name="And user fill Nama Depan field" classname="register-on-the-website-cermati.com;user-success-to-register-on-the-website-of-cermati.com" time="0.000169801">
+        </testcase>
+        <testcase name="And user fill Nama Belakang field" classname="register-on-the-website-cermati.com;user-success-to-register-on-the-website-of-cermati.com" time="0.0001573">
+        </testcase>
+        <testcase name="And user fill Nomor Telepon field" classname="register-on-the-website-cermati.com;user-success-to-register-on-the-website-of-cermati.com" time="0.000373301">
+        </testcase>
+        <testcase name="When user fill Kabupaten/Kota field" classname="register-on-the-website-cermati.com;user-success-to-register-on-the-website-of-cermati.com" time="0.0001181">
+        </testcase>
+        <testcase name="Then user click Daftar Akun button" classname="register-on-the-website-cermati.com;user-success-to-register-on-the-website-of-cermati.com" time="0.0000848">
+        </testcase>
+    </testsuite>
+</testsuites>

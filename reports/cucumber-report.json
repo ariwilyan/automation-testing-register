@@ -1,0 +1,157 @@
+[
+  {
+    "description": "    As a user\n    I want to be able to register on the website Cermati.com",
+    "elements": [
+      {
+        "id": "register-on-the-website-cermati.com;user-success-to-register-on-the-website-of-cermati.com",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "User success to register on the website of Cermati.com",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "user browse register page",
+            "result": {
+              "status": "passed",
+              "duration": 978300
+            },
+            "line": 9,
+            "match": {
+              "location": "F:\\Study\\Job\\Cermati\\register-cermati\\step-definitions\\register-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill Email field",
+            "result": {
+              "status": "passed",
+              "duration": 191301
+            },
+            "line": 10,
+            "match": {
+              "location": "F:\\Study\\Job\\Cermati\\register-cermati\\step-definitions\\register-steps.js:8"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill Kata Sandi field",
+            "result": {
+              "status": "passed",
+              "duration": 218600
+            },
+            "line": 11,
+            "match": {
+              "location": "F:\\Study\\Job\\Cermati\\register-cermati\\step-definitions\\register-steps.js:15"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill Konfirmasi Kata Sandi field",
+            "result": {
+              "status": "passed",
+              "duration": 173101
+            },
+            "line": 12,
+            "match": {
+              "location": "F:\\Study\\Job\\Cermati\\register-cermati\\step-definitions\\register-steps.js:22"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill Nama Depan field",
+            "result": {
+              "status": "passed",
+              "duration": 169801
+            },
+            "line": 13,
+            "match": {
+              "location": "F:\\Study\\Job\\Cermati\\register-cermati\\step-definitions\\register-steps.js:29"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill Nama Belakang field",
+            "result": {
+              "status": "passed",
+              "duration": 157300
+            },
+            "line": 14,
+            "match": {
+              "location": "F:\\Study\\Job\\Cermati\\register-cermati\\step-definitions\\register-steps.js:36"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill Nomor Telepon field",
+            "result": {
+              "status": "passed",
+              "duration": 373301
+            },
+            "line": 15,
+            "match": {
+              "location": "F:\\Study\\Job\\Cermati\\register-cermati\\step-definitions\\register-steps.js:43"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "user fill Kabupaten/Kota field",
+            "result": {
+              "status": "passed",
+              "duration": 118100
+            },
+            "line": 16,
+            "match": {
+              "location": "F:\\Study\\Job\\Cermati\\register-cermati\\step-definitions\\register-steps.js:50"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "user click Daftar Akun button",
+            "result": {
+              "status": "passed",
+              "duration": 84800
+            },
+            "line": 17,
+            "match": {
+              "location": "F:\\Study\\Job\\Cermati\\register-cermati\\step-definitions\\register-steps.js:57"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 8324978601
+            },
+            "hidden": true,
+            "match": {
+              "location": "F:\\Study\\Job\\Cermati\\register-cermati\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@success",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "register-on-the-website-cermati.com",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "Register on the website Cermati.com",
+    "tags": [],
+    "uri": "F:\\Study\\Job\\Cermati\\register-cermati\\features\\register.feature"
+  }
+]
